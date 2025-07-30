@@ -92,8 +92,10 @@ function openPolicy() {
     }
   };
 
-  document.getElementById('policyTitle').innerText = policyData[lang].title;
-  document.getElementById('policyText').innerText = policyData[lang].text;
+  const policy = policyData[lang] || policyData['ru']; // <-- добавлено
+
+  document.getElementById('policyTitle').innerText = policy.title;
+  document.getElementById('policyText').innerText = policy.text;
   document.getElementById('policyModal').style.display = 'flex';
 }
 
