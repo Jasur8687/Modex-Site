@@ -291,6 +291,7 @@ footer a {
 }
 
 .modal-content {
+  color: #fff;
   background: white;
   padding: 2rem;
   border-radius: 12px;
