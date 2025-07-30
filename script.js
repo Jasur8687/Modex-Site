@@ -12,7 +12,7 @@ function selectLanguage(lang) {
       guide: 'https://t.me/skript1win_bot'
     },
     tj: {
-      play: 'https://1wprde.com/?open=register&p=vayp',
+      play: 'https://1wlvkt.life/?open=register&p=vaypм',
       guide: 'https://t.me/skript1win_bot'
     },
     uz: {
