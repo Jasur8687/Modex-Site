@@ -4,19 +4,19 @@ function selectLanguage(lang) {
 
   const linksByLang = {
     en: {
-      play: 'https://1wfzws.life/?open=register&p=1ogz',
+      play: 'https://1wbhdb.life/?open=register&p=1ogz',
       guide: 'https://t.me/skript1win_bot'
     },
     ru: {
-      play: 'https://1wfzws.life/?open=register&p=1ogz',
+      play: 'https://1wbhdb.life/?open=register&p=1ogz',
       guide: 'https://t.me/skript1win_bot'
     },
     tj: {
-      play: 'https://1wyvrz.life/?open=register&p=vayp',
+      play: 'https://1wbhdb.life/?open=register&p=1ogz',
       guide: 'https://t.me/skript1win_bot'
     },
     uz: {
-      play: 'https://1wfzws.life/?open=register&p=1ogz',
+      play: 'https://1wbhdb.life/?open=register&p=1ogz',
       guide: 'https://t.me/skript1win_bot'
     }
   };
@@ -102,3 +102,4 @@ function openPolicy() {
 function closePolicy() {
   document.getElementById('policyModal').style.display = 'none';
 }
+
