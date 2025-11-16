@@ -4,19 +4,19 @@ function selectLanguage(lang) {
 
   const linksByLang = {
     en: {
-      play: 'https://lkpf.pro/e48801',
+      play: 'https://1wbdiw.com/?open=register&p=1ogz',
       guide: 'https://t.me/skript1win_bot'
     },
     ru: {
-      play: 'https://lkpf.pro/e48801',
+      play: 'https://1wbdiw.com/?open=register&p=1ogz',
       guide: 'https://t.me/skript1win_bot'
     },
     tj: {
-      play: 'https://lkpf.pro/e48801',
+      play: 'https://1wbdiw.com/?open=register&p=1ogz',
       guide: 'https://t.me/skript1win_bot'
     },
     uz: {
-      play: 'https://lkpf.pro/e48801',
+      play: 'https://1wbdiw.com/?open=register&p=1ogz',
       guide: 'https://t.me/skript1win_bot'
     }
   };
@@ -102,4 +102,5 @@ function openPolicy() {
 function closePolicy() {
   document.getElementById('policyModal').style.display = 'none';
 }
+
 
