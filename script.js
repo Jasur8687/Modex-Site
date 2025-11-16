@@ -19,20 +19,8 @@ function selectLanguage(lang) {
       play: 'https://1wbdiw.com/?open=register&p=1ogz',
       guide: 'https://t.me/skript1win_bot'
     },
-    ru: {
-      play: 'https://1wbdiw.com/?open=register&p=1ogz',
-      guide: 'https://t.me/skript1win_bot'
-    },
-    tj: {
-      play: 'https://1wbdiw.com/?open=register&p=1ogz',
-      guide: 'https://t.me/skript1win_bot'
-    },
-    uz: {
-      play: 'https://1wbdiw.com/?open=register&p=1ogz',
-      guide: 'https://t.me/skript1win_bot'
-    }
   };
-
+  
   const headlines = {
     en: 'Win Today!',
     ru: 'Выигрывай уже сегодня!',
