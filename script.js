@@ -4,19 +4,19 @@ function selectLanguage(lang) {
 
   const linksByLang = {
     en: {
-      play: 'https://1wsbeh.com/?open=register&p=1ogz',
+      play: 'https://1whixd.com/?open=register&p=1ogz',
       guide: 'https://t.me/skript1win_bot'
     },
     ru: {
-      play: 'https://1wsbeh.com/?open=register&p=1ogz',
+      play: 'https://1whixd.com/?open=register&p=1ogz',
       guide: 'https://t.me/skript1win_bot'
     },
     tj: {
-      play: 'https://1wsbeh.com/?open=register&p=1ogz',
+      play: 'https://1whixd.com/?open=register&p=1ogz',
       guide: 'https://t.me/skript1win_bot'
     },
     uz: {
-      play: 'https://1wsbeh.com/?open=register&p=1ogz',
+      play: 'https://1whixd.com/?open=register&p=1ogz',
       guide: 'https://t.me/skript1win_bot'
     },
   };
